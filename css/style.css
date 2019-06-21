@@ -1,0 +1,20 @@
+	/*  POLITICAS AMBIENTALES  */
+
+	.versalitas {
+	    /*font-style: oblique;*/
+	    font-style: italic;
+	    margin-left: 40px;
+	    margin-top: 12px;
+	}
+	#colorLetra {
+	    color: white;
+	    font-size: 16px;
+	    font-family: Arial;
+	    text-align: justify;
+	}
+	#colorLetrah1 {
+	    color: white;
+	}
+	#back {
+	    background: #343a40;
+	}
